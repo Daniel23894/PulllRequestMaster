@@ -4,3 +4,7 @@ roijfoirj text :)
 addHamburger(){
     console.log("Hamburger added");
 }
+
+addFries(){
+    console.log("Fries added");
+}
