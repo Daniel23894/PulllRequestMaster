@@ -1,2 +1,11 @@
 hej igen for fanden da
 roijfoirj text :)
+
+addHamburger(){
+    console.log("Hamburger added");
+}
+
+addFries(){
+    console.log("Fries added");
+    addFries();
+}
