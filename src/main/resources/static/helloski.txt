@@ -7,4 +7,5 @@ addHamburger(){
 
 addFries(){
     console.log("Fries added");
+    addFries();
 }
