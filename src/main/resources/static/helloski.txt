@@ -1,2 +1,6 @@
 hej igen for fanden da
 roijfoirj text :)
+
+addHamburger(){
+    console.log("Hamburger added");
+}
